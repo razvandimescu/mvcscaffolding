@@ -1,0 +1,3 @@
+﻿___appname___
+___sollution_GUID___
+___website_csproj_GUID___

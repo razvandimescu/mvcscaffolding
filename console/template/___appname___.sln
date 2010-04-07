@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{___sollutionGUID___}") = "___appname___", "___appname___\___appname___.csproj", "{___website_csproj_GUID___}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{___website_csproj_GUID___}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{___website_csproj_GUID___}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{___website_csproj_GUID___}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{___website_csproj_GUID___}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
